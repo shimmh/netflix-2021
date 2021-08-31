@@ -50,7 +50,7 @@ const routes: IRoute[] = [
     path: "/search",
     name: "Search",
     component: SearchRoute,
-    exact: false,
+    exact: true,
   },
 ];
 
